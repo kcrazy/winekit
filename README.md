@@ -1,2 +1,1 @@
-# winekit
-Compile Windows applications on linux
+# Compile Windows applications on linux (or Mac) with WINE.
